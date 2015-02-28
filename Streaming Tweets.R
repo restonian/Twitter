@@ -19,3 +19,5 @@ clean.tweets <- function(text){
   words <- str_split(text, " ")
   return(words)
 }
+
+#i made a change
