@@ -28,3 +28,7 @@ clean.tweets <- function(text){
 #okay, here is my third change...can you see me ?
 
 #push this to github without entering username/password
+
+#one more push for luck!
+
+#with a  little help from my friends
